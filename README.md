@@ -1,5 +1,7 @@
 # Python-3-Complete-MasterClass
 
+These programs were developed as practice during the "Python-3-Complete-Masterclass". Great course! 
+
 List of programs
 
 1) Scientific Calculator: A very basic scientific calculator that performs arithmetic operations using the "math" module, it has no graphic UI and minimal error handling. 
